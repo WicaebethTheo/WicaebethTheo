@@ -53,16 +53,18 @@ Mon terrain de jeu pour tester et apprendre :
 ---
 
 
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WicaebethTheo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WicaebethTheo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <i>« Le meilleur moment pour planter un arbre, c'était il y a 20 ans. Le deuxième meilleur moment, c'est maintenant. »</i>
+  <i>« Life is all about tech now.»</i>
 </p>
