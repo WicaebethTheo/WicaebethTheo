@@ -20,6 +20,7 @@ Je travaille actuellement chez un bailleur social où je gère l'infrastructure 
 - Windows Server, Active Directory, RDS
 - Linux (Arch, Ubuntu)
 - PowerShell, Bash
+- unRAID, TrueNAS
 
 **Outils & Services**
 - GLPI, Wazuh
