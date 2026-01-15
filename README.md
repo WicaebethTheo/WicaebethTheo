@@ -54,10 +54,6 @@ Mon terrain de jeu pour tester et apprendre :
 ---
 
 
----
-
----
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WicaebethTheo&theme=github_dark" alt="Profile Details" />
 </p>
@@ -66,8 +62,6 @@ Mon terrain de jeu pour tester et apprendre :
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WicaebethTheo&theme=github_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WicaebethTheo&theme=github_dark" alt="Most Commit Language" />
 </p>
-
----
 
 ---
 
