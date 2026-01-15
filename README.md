@@ -2,7 +2,7 @@
 
 **Administrateur Systèmes & Réseaux** en alternance dans les Hauts-de-France.
 
-Je travaille actuellement chez un bailleur social où je gère l'infrastructure IT 150+ VM's. Je fait du homelab et j'explore tout ce qui touche à la cybersécurité et le système en profondeurs.
+Je travaille actuellement chez un bailleur social où je gère l'infrastructure IT 80+ VM's. Je fait du homelab et j'explore tout ce qui touche à la cybersécurité et le système en profondeurs.
 
 ---
 
