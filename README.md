@@ -52,12 +52,6 @@ Mon terrain de jeu pour tester et apprendre :
 
 ---
 
-## 📫 Me contacter
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:)
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
