@@ -49,53 +49,61 @@
 
 <div align="center">
 
-<a href="https://www.proxmox.com" title="Proxmox VE"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" alt="Proxmox" /></a>&nbsp;&nbsp;
-<a href="https://www.docker.com" title="Docker"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="Docker" /></a>
+<a href="https://www.proxmox.com" title="Proxmox VE"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" alt="Proxmox" /></a>&nbsp;&nbsp;
+<a href="https://www.docker.com" title="Docker"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="Docker" /></a>
 <br/><sub>Proxmox VE · LXC · Docker</sub>
 
 <br/><sub>•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•</sub><br/>
 
-<a href="https://www.ui.com" title="UniFi"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unifi.svg" alt="UniFi" /></a>&nbsp;&nbsp;
-<a href="https://traefik.io" title="Traefik"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" alt="Traefik" /></a>&nbsp;&nbsp;
-<a href="https://www.wireguard.com" title="WireGuard"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" alt="WireGuard" /></a>&nbsp;&nbsp;
-<a href="https://netbird.io" title="NetBird"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/netbird.svg" alt="NetBird" /></a>
+<a href="https://www.ui.com" title="UniFi"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unifi.svg" alt="UniFi" /></a>&nbsp;&nbsp;
+<a href="https://traefik.io" title="Traefik"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik-proxy.svg" alt="Traefik" /></a>&nbsp;&nbsp;
+<a href="https://www.wireguard.com" title="WireGuard"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" alt="WireGuard" /></a>&nbsp;&nbsp;
+<a href="https://netbird.io" title="NetBird"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/netbird.svg" alt="NetBird" /></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/VLAN" title="VLAN"><img height="48" src="https://img.icons8.com/color/96/network.png" alt="VLAN" /></a>
 <br/><sub>UniFi · Traefik · WireGuard · NetBird · VLAN · VPN site-to-site</sub>
 
 <br/><sub>•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•</sub><br/>
 
-<a href="https://www.fortinet.com" title="FortiGate"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fortinet.svg" alt="FortiGate" /></a>&nbsp;&nbsp;
-<a href="https://wazuh.com" title="Wazuh"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" alt="Wazuh" /></a>&nbsp;&nbsp;
-<a href="https://www.crowdsec.net" title="CrowdSec"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdsec.svg" alt="CrowdSec" /></a>&nbsp;&nbsp;
-<a href="https://www.bunkerweb.io" title="BunkerWeb"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bunkerweb.svg" alt="BunkerWeb" /></a>
+<a href="https://www.fortinet.com" title="FortiGate"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fortinet.svg" alt="FortiGate" /></a>&nbsp;&nbsp;
+<a href="https://www.stormshield.com" title="Stormshield"><img height="44" src="https://www.google.com/s2/favicons?domain=stormshield.com&sz=128" alt="Stormshield" /></a>&nbsp;&nbsp;
+<a href="https://wazuh.com" title="Wazuh"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" alt="Wazuh" /></a>&nbsp;&nbsp;
+<a href="https://www.crowdsec.net" title="CrowdSec"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdsec.svg" alt="CrowdSec" /></a>&nbsp;&nbsp;
+<a href="https://www.bunkerweb.io" title="BunkerWeb"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bunkerweb.svg" alt="BunkerWeb" /></a>&nbsp;&nbsp;
+<a href="https://en.wikipedia.org/wiki/Public_key_infrastructure" title="PKI"><img height="48" src="https://img.icons8.com/color/96/certificate.png" alt="PKI" /></a>
 <br/><sub>FortiGate · Stormshield · Wazuh · CrowdSec · BunkerWeb · PKI</sub>
 
 <br/><sub>•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•</sub><br/>
 
-<a href="https://www.microsoft.com/windows-server" title="Windows Server / Active Directory"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft.svg" alt="Microsoft" /></a>&nbsp;&nbsp;
-<a href="https://www.linux.org" title="Linux"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" alt="Linux" /></a>&nbsp;&nbsp;
-<a href="https://archlinux.org" title="Arch Linux"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" alt="Arch" /></a>&nbsp;&nbsp;
-<a href="https://ubuntu.com" title="Ubuntu"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" /></a>
+<a href="https://www.microsoft.com/windows-server" title="Windows Server"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft.svg" alt="Windows Server" /></a>&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/windows-server/identity/ad-ds/active-directory-domain-services" title="Active Directory"><img height="48" src="https://img.icons8.com/color/96/active-directory.png" alt="Active Directory" /></a>&nbsp;&nbsp;
+<a href="https://www.linux.org" title="Linux"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" alt="Linux" /></a>&nbsp;&nbsp;
+<a href="https://archlinux.org" title="Arch Linux"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" alt="Arch" /></a>&nbsp;&nbsp;
+<a href="https://ubuntu.com" title="Ubuntu"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" /></a>
 <br/><sub>Windows Server · Active Directory · Linux · Arch · Ubuntu</sub>
 
 <br/><sub>•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•</sub><br/>
 
-<a href="https://learn.microsoft.com/powershell" title="PowerShell"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powershell.svg" alt="PowerShell" /></a>&nbsp;&nbsp;
-<a href="https://www.gnu.org/software/bash/" title="Bash"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell.svg" alt="Bash" /></a>
+<a href="https://learn.microsoft.com/powershell" title="PowerShell"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powershell.svg" alt="PowerShell" /></a>&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell.svg" alt="Bash" /></a>
 <br/><sub>PowerShell · Bash</sub>
 
 <br/><sub>•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•</sub><br/>
 
-<a href="https://unraid.net" title="unRAID"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg" alt="unRAID" /></a>&nbsp;&nbsp;
-<a href="https://www.truenas.com" title="TrueNAS"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/truenas.svg" alt="TrueNAS" /></a>&nbsp;&nbsp;
-<a href="https://github.com/dani-garcia/vaultwarden" title="Vaultwarden"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden.svg" alt="Vaultwarden" /></a>&nbsp;&nbsp;
-<a href="https://glpi-project.org" title="GLPI"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/glpi.svg" alt="GLPI" /></a>
-<br/><sub>unRAID · TrueNAS · Vaultwarden · GLPI</sub>
+<a href="https://unraid.net" title="unRAID"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg" alt="unRAID" /></a>&nbsp;&nbsp;
+<a href="https://www.truenas.com" title="TrueNAS"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/truenas.svg" alt="TrueNAS" /></a>&nbsp;&nbsp;
+<a href="https://github.com/dani-garcia/vaultwarden" title="Vaultwarden"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden.svg" alt="Vaultwarden" /></a>
+<br/><sub>unRAID · TrueNAS · Vaultwarden</sub>
 
 <br/><sub>•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•</sub><br/>
 
-<a href="https://git-scm.com" title="Git"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="Git" /></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com" title="VS Code"><img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" alt="VS Code" /></a>&nbsp;&nbsp;
-<a href="https://cursor.com" title="Cursor"><img height="48" src="https://cdn.simpleicons.org/cursor/9CA3AF" alt="Cursor" /></a>
+<a href="https://glpi-project.org" title="GLPI"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/glpi.svg" alt="GLPI" /></a>
+<br/><sub>ITSM · GLPI</sub>
+
+<br/><sub>•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•</sub><br/>
+
+<a href="https://git-scm.com" title="Git"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="Git" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com" title="VS Code"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" alt="VS Code" /></a>&nbsp;&nbsp;
+<a href="https://cursor.com" title="Cursor"><img height="44" src="https://cdn.simpleicons.org/cursor/9CA3AF" alt="Cursor" /></a>
 <br/><sub>Git · VS Code · Cursor</sub>
 
 </div>
