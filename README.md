@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Theo%20·%20Wicaebeth&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Administrateur%20Systèmes%20%26%20Réseaux%20·%20Homelab%20·%20Cybersécurité&descSize=18&descAlignY=60" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Theo%20%7C%20Wicaebeth&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Administrateur%20Syst%C3%A8mes%20%26%20R%C3%A9seaux%20%C2%B7%20Homelab%20%C2%B7%20Cybers%C3%A9curit%C3%A9&descSize=18&descAlignY=60" width="100%" alt="header" />
 
 <a href="https://github.com/WicaebethTheo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=620&height=45&lines=Administrateur+Syst%C3%A8mes+%26+R%C3%A9seaux;Homelab+%C2%B7+Proxmox+%C2%B7+Docker;Cybers%C3%A9curit%C3%A9+%26+infrastructure+r%C3%A9seau;Le+LLM+propose%2C+le+code+d%C3%A9cide" alt="typing" />
@@ -46,38 +46,51 @@
 
 ## 🧰 Stack technique
 
-**Virtualisation & Conteneurisation**
+**🖥️ Virtualisation & Conteneurisation**
 
 ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-2C5364?style=for-the-badge&logo=linuxcontainers&logoColor=white)
 
-**Réseau & Sécurité**
+**🌐 Réseau**
+
+![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![NetBird](https://img.shields.io/badge/NetBird-FF6200?style=for-the-badge&logoColor=white)
+![VLAN / VPN](https://img.shields.io/badge/VLAN_·_VPN_site--to--site-4A5568?style=for-the-badge&logoColor=white)
+
+**🛡️ Sécurité**
 
 ![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Stormshield](https://img.shields.io/badge/Stormshield-8C1D40?style=for-the-badge&logoColor=white)
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3796F6?style=for-the-badge&logoColor=white)
 ![CrowdSec](https://img.shields.io/badge/CrowdSec-23B2A4?style=for-the-badge&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![PKI / VPN / VLAN](https://img.shields.io/badge/PKI_·_VPN_·_VLAN-4A5568?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![BunkerWeb](https://img.shields.io/badge/BunkerWeb-F7902D?style=for-the-badge&logoColor=white)
+![PKI](https://img.shields.io/badge/PKI-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
-**Systèmes**
+**🪟 Systèmes**
 
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-1E6FBA?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**⌨️ Langages**
+
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+**🏠 Self-hosted**
+
 ![unRAID](https://img.shields.io/badge/unRAID-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)
-
-**Outils & Services**
-
+![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
+![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=vaultwarden&logoColor=white)
 ![GLPI](https://img.shields.io/badge/GLPI-F89406?style=for-the-badge&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3796F6?style=for-the-badge&logoColor=white)
+
+**🔧 Outils**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
@@ -102,7 +115,8 @@
 ## 📚 En ce moment
 
 - Approfondissement de l'infrastructure **Active Directory**
-- Sécurisation et exposition de services via **reverse proxy**
+- Sécurisation et exposition de services via **reverse proxy** (BunkerWeb, Traefik)
+- Réseau mesh **NetBird / WireGuard** entre sites
 - Développement d'outils **IA appliqués à l'ITSM**
 
 <div align="center">
