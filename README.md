@@ -1,6 +1,7 @@
-<div align="center">
+<h1 align="center">Salut, moi c'est Theo 👋</h1>
+<h3 align="center">Administrateur Systèmes & Réseaux · Homelab · Cybersécurité</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=210&section=header&text=Theo%20%7C%20Wicaebeth&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Administrateur%20Syst%C3%A8mes%20%26%20R%C3%A9seaux%20%C2%B7%20Homelab%20%C2%B7%20Cybers%C3%A9curit%C3%A9&descSize=18&descAlignY=60" width="100%" alt="header" />
+<div align="center">
 
 <a href="https://github.com/WicaebethTheo">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=22D3EE&center=true&vCenter=true&width=620&height=45&lines=Administrateur+Syst%C3%A8mes+%26+R%C3%A9seaux;Homelab+%C2%B7+Proxmox+%C2%B7+Docker;Cybers%C3%A9curit%C3%A9+%26+infrastructure+r%C3%A9seau;Le+LLM+propose%2C+le+code+d%C3%A9cide" alt="typing" />
@@ -46,54 +47,52 @@
 
 ## 🧰 Stack technique
 
-**🖥️ Virtualisation & Conteneurisation**
+<div align="center">
 
-![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LXC](https://img.shields.io/badge/LXC-2C5364?style=for-the-badge&logo=linuxcontainers&logoColor=white)
+<p><b>🖥️ Virtualisation &amp; Conteneurisation</b></p>
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" alt="Proxmox" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/docker.svg" alt="Docker" />
+<br/><sub>Proxmox VE · LXC · Docker</sub>
 
-**🌐 Réseau**
+<p><b>🌐 Réseau</b></p>
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unifi.svg" alt="UniFi" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/traefik.svg" alt="Traefik" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wireguard.svg" alt="WireGuard" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/netbird.svg" alt="NetBird" />
+<br/><sub>UniFi · Traefik · WireGuard · NetBird · VLAN · VPN site-to-site</sub>
 
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
-![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefikproxy&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
-![NetBird](https://img.shields.io/badge/NetBird-FF6200?style=for-the-badge&logoColor=white)
-![VLAN / VPN](https://img.shields.io/badge/VLAN_·_VPN_site--to--site-4A5568?style=for-the-badge&logoColor=white)
+<p><b>🛡️ Sécurité</b></p>
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fortinet.svg" alt="FortiGate" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" alt="Wazuh" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdsec.svg" alt="CrowdSec" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bunkerweb.svg" alt="BunkerWeb" />
+<br/><sub>FortiGate · Stormshield · Wazuh · CrowdSec · BunkerWeb · PKI</sub>
 
-**🛡️ Sécurité**
+<p><b>🪟 Systèmes</b></p>
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft.svg" alt="Microsoft" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" alt="Linux" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" alt="Arch" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" />
+<br/><sub>Windows Server · Active Directory · Linux · Arch · Ubuntu</sub>
 
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![Stormshield](https://img.shields.io/badge/Stormshield-8C1D40?style=for-the-badge&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-3796F6?style=for-the-badge&logoColor=white)
-![CrowdSec](https://img.shields.io/badge/CrowdSec-23B2A4?style=for-the-badge&logoColor=white)
-![BunkerWeb](https://img.shields.io/badge/BunkerWeb-F7902D?style=for-the-badge&logoColor=white)
-![PKI](https://img.shields.io/badge/PKI-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white)
+<p><b>⌨️ Langages</b></p>
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/powershell.svg" alt="PowerShell" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/shell.svg" alt="Bash" />
+<br/><sub>PowerShell · Bash</sub>
 
-**🪟 Systèmes**
+<p><b>🏠 Self-hosted</b></p>
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/unraid.svg" alt="unRAID" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/truenas.svg" alt="TrueNAS" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/vaultwarden.svg" alt="Vaultwarden" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/glpi.svg" alt="GLPI" />
+<br/><sub>unRAID · TrueNAS · Vaultwarden · GLPI</sub>
 
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-1E6FBA?style=for-the-badge&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+<p><b>🔧 Outils</b></p>
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/git.svg" alt="Git" />&nbsp;&nbsp;
+<img height="50" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/visual-studio-code.svg" alt="VS Code" />
+<br/><sub>Git · VS Code · Cursor</sub>
 
-**⌨️ Langages**
-
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-
-**🏠 Self-hosted**
-
-![unRAID](https://img.shields.io/badge/unRAID-F15A2C?style=for-the-badge&logo=unraid&logoColor=white)
-![TrueNAS](https://img.shields.io/badge/TrueNAS-0095D5?style=for-the-badge&logo=truenas&logoColor=white)
-![Vaultwarden](https://img.shields.io/badge/Vaultwarden-175DDC?style=for-the-badge&logo=vaultwarden&logoColor=white)
-![GLPI](https://img.shields.io/badge/GLPI-F89406?style=for-the-badge&logoColor=white)
-
-**🔧 Outils**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+</div>
 
 ---
 
@@ -121,7 +120,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" alt="footer" />
+<br/>
 
 <i>« Life is all about tech now. »</i>
 
