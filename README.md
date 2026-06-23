@@ -78,8 +78,10 @@
 <a href="https://learn.microsoft.com/windows-server/identity/ad-ds/active-directory-domain-services" title="Active Directory"><img height="48" src="https://img.icons8.com/color/96/active-directory.png" alt="Active Directory" /></a>&nbsp;&nbsp;
 <a href="https://www.linux.org" title="Linux"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/linux.svg" alt="Linux" /></a>&nbsp;&nbsp;
 <a href="https://archlinux.org" title="Arch Linux"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/arch-linux.svg" alt="Arch" /></a>&nbsp;&nbsp;
-<a href="https://ubuntu.com" title="Ubuntu"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" /></a>
-<br/><sub>Windows Server · Active Directory · Linux · Arch · Ubuntu</sub>
+<a href="https://ubuntu.com" title="Ubuntu"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ubuntu-linux.svg" alt="Ubuntu" /></a>&nbsp;&nbsp;
+<a href="https://www.debian.org" title="Debian"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/debian-linux.svg" alt="Debian" /></a>&nbsp;&nbsp;
+<a href="https://fedoraproject.org" title="Fedora"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fedora.svg" alt="Fedora" /></a>
+<br/><sub>Windows Server · Active Directory · Linux · Arch · Ubuntu · Debian · Fedora</sub>
 
 <br/><sub>•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•</sub><br/>
 
