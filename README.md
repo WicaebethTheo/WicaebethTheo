@@ -65,7 +65,7 @@
 <br/><sub>•&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;•</sub><br/>
 
 <a href="https://www.fortinet.com" title="FortiGate"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/fortinet.svg" alt="FortiGate" /></a>&nbsp;&nbsp;
-<a href="https://www.stormshield.com" title="Stormshield"><img height="44" src="https://www.google.com/s2/favicons?domain=stormshield.com&sz=128" alt="Stormshield" /></a>&nbsp;&nbsp;
+<a href="https://www.stormshield.com" title="Stormshield"><img height="44" src="https://raw.githubusercontent.com/WicaebethTheo/WicaebethTheo/main/assets/stormshield.png" alt="Stormshield" /></a>&nbsp;&nbsp;
 <a href="https://wazuh.com" title="Wazuh"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/wazuh.svg" alt="Wazuh" /></a>&nbsp;&nbsp;
 <a href="https://www.crowdsec.net" title="CrowdSec"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/crowdsec.svg" alt="CrowdSec" /></a>&nbsp;&nbsp;
 <a href="https://www.bunkerweb.io" title="BunkerWeb"><img height="48" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bunkerweb.svg" alt="BunkerWeb" /></a>&nbsp;&nbsp;
