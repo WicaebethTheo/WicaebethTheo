@@ -2,7 +2,8 @@
 
 **Administrateur Systèmes & Réseaux** en alternance dans les Hauts-de-France.
 
-Je travaille actuellement chez un bailleur social où je gère l'infrastructure IT 80+ VM's. Je fait du homelab et j'explore tout ce qui touche à la cybersécurité et le système en profondeurs.
+Je gère actuellement l'infrastructure IT (80+ VM) chez un bailleur social. Je fais du homelab et j'explore tout ce qui touche à la cybersécurité et aux systèmes en profondeur.
+
 ---
 
 ## 🛠️ Ce avec quoi je travaille au quotidien
@@ -25,6 +26,14 @@ Je travaille actuellement chez un bailleur social où je gère l'infrastructure 
 - GLPI, Wazuh
 - Git, VS Code, Cursor, Windsurf
 - MDM
+
+---
+
+## 🚀 Projets en cours
+
+- **[ITSM Modern AI](https://github.com/WicaebethTheo/itsm-modern-ai)** — moteur de triage IA des tickets GLPI, on-premise et souverain : le LLM propose, le code décide (garde-fous déterministes, masquage PII avant tout appel LLM). Open-core (MIT).
+- **[Nemesis Hub](https://nemesis-hub.com)** — plateforme communautaire Valorant : matchmaking façon FACEIT, customs 5v5, économie PP, boutique & console admin (bot Discord + web, Docker).
+
 ---
 
 ## 🏠 Homelab
@@ -48,10 +57,9 @@ Mon terrain de jeu pour tester et apprendre :
 
 - Approfondissement de l'infrastructure Active Directory
 - Sécurisation et exposition de services via reverse proxy
-- Exploration des outils IA pour le développement
+- Développement d'outils IA appliqués à l'ITSM
 
 ---
-
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WicaebethTheo&theme=github_dark" alt="Profile Details" />
@@ -65,5 +73,5 @@ Mon terrain de jeu pour tester et apprendre :
 ---
 
 <p align="center">
-  <i>« Life is all about tech now.»</i>
+  <i>« Life is all about tech now. »</i>
 </p>
