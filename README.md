@@ -27,7 +27,9 @@ Ingénieur systèmes & réseaux côté **Blue Team**. J'aime comprendre en profo
 <tr>
 <td width="50%" valign="top">
 
-### <img src="assets/logos/wicaby.svg" width="36" height="36" align="center" alt=""> Wicaby
+<img src="assets/logos/wicaby.svg" width="56" align="right" alt="Logo Wicaby">
+
+### Wicaby
 **Client multimédia multi-serveurs**<br/>
 <sub>[Code](https://github.com/WicaebethTheo/wicaby) · GPL-3.0</sub>
 
@@ -40,7 +42,9 @@ Un seul client pour **Emby, Jellyfin, Plex et Navidrome**, plus les sources **We
 </td>
 <td width="50%" valign="top">
 
-### <img src="assets/logos/tessera.svg" width="36" height="36" align="center" alt=""> Tessera
+<img src="assets/logos/tessera.svg" width="56" align="right" alt="Logo Tessera">
+
+### Tessera
 **Supervision d'infra et veille CVE, façon bureau**<br/>
 <sub>🔒 Dépôt privé · MIT</sub>
 
@@ -64,7 +68,9 @@ Un tableau de bord homelab qui se comporte comme un bureau : widgets sur fond d'
 <tr>
 <td width="50%" valign="top">
 
-### <img src="assets/logos/itsm-modern-ai.svg" width="36" height="36" align="center" alt=""> ITSM Modern AI
+<img src="assets/logos/itsm-modern-ai.svg" width="56" align="right" alt="Logo ITSM Modern AI">
+
+### ITSM Modern AI
 **Triage IA de tickets GLPI, auto-hébergé et souverain**<br/>
 <sub>[Site](https://itsm-modern-ai.com) · [Docs](https://docs.itsm-modern-ai.com) · [Code](https://github.com/WicaebethTheo/itsm-modern-ai) · MIT</sub>
 
@@ -78,7 +84,9 @@ Un tableau de bord homelab qui se comporte comme un bureau : widgets sur fond d'
 </td>
 <td width="50%" valign="top">
 
-### <img src="assets/logos/nemesis.png" width="36" height="36" align="center" alt=""> Nemesis Hub
+<img src="assets/logos/nemesis.png" width="56" align="right" alt="Logo Nemesis">
+
+### Nemesis Hub
 **Plateforme communautaire Valorant**<br/>
 <sub>[nemesis-hub.com](https://nemesis-hub.com) · [Discord](https://discord.gg/Uq4MSaQBx6)</sub>
 
