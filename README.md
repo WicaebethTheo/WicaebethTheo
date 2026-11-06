@@ -113,31 +113,19 @@ Matchmaking type FACEIT, customs 5v5, économie de points, boutique et console d
 
 Deux nœuds Proxmox, un NAS, des sauvegardes hors site testées, un réseau segmenté et un SIEM. C'est mon banc d'essai : rien ne part en production sans y être passé.
 
-```mermaid
-flowchart LR
-    NET((Internet)) --> EDGE[VPS Edge<br/>WAF BunkerWeb]
-    ADMIN([Accès admin]) --> MESH
-    EDGE --> MESH{{Mesh NetBird<br/>WireGuard + Rosenpass}}
-    IDP[VPS Identité<br/>SSO Authentik] -. OIDC .- MESH
-    MESH --> RP[Reverse proxy HA<br/>Traefik · VIP keepalived]
-    subgraph LAN [Réseau local · VLAN segmentés · backbone 10 G]
-        RP --> THOR[Thor<br/>Proxmox · principal]
-        RP --> FREYA[Freya<br/>Proxmox · secondaire]
-        THOR --- NAS[(NAS unRAID)]
-        FREYA --- NAS
-    end
-    THOR -. sauvegardes .-> PBS[(Mimir<br/>PBS hors site)]
-    FREYA -. sauvegardes .-> PBS
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/homelab-dark.svg">
+  <img alt="Schéma du homelab : Internet et Cloudflare vers le VPS Edge (WAF BunkerWeb), puis le mesh NetBird, le reverse proxy HA Traefik et le réseau local (Thor, Freya, NAS, SIEM), avec sauvegardes hors site vers Mimir" src="assets/homelab-light.svg" width="100%">
+</picture>
 
 | Machine | Rôle | CPU | RAM | Stockage | Réseau |
 |---|---|---|---|---|---|
-| **Thor** | Nœud Proxmox principal | Ryzen 9 7945HX | 96 Go DDR5 | 3 To NVMe (pool *Mjolnir*) | 10 Gb/s |
-| **Freya** | Nœud Proxmox secondaire | Ryzen 9 7900X | 96 Go DDR5 | 2,5 To NVMe (pool *Gungnir*) | 2,5 Gb/s |
-| **NAS** | Stockage SMB / NFS | Ryzen 9 3900X | 64 Go DDR4 | 1 To NVMe + 56 To HDD | 10 Gb/s |
-| **VPS Edge** | WAF / reverse proxy public | 8 vCores | 16 Go | 512 Go NVMe | 2,5 Gb/s |
-| **VPS Mesh** | Plan de contrôle NetBird | 4 vCores | 8 Go | 100 Go SSD | 1 Gb/s |
-| **VPS Identité** | SSO | 4 vCores | 8 Go | 100 Go SSD | 1 Gb/s |
+| <img src="assets/icons/proxmox.svg" width="18" height="18" align="center" alt=""> **Thor** | Nœud Proxmox principal | Ryzen 9 7945HX | 96 Go DDR5 | 3 To NVMe (pool *Mjolnir*) | 10 Gb/s |
+| <img src="assets/icons/proxmox.svg" width="18" height="18" align="center" alt=""> **Freya** | Nœud Proxmox secondaire | Ryzen 9 7900X | 96 Go DDR5 | 2,5 To NVMe (pool *Gungnir*) | 2,5 Gb/s |
+| <img src="assets/icons/unraid.svg" width="18" height="18" align="center" alt=""> **NAS** | Stockage SMB / NFS | Ryzen 9 3900X | 64 Go DDR4 | 1 To NVMe + 56 To HDD | 10 Gb/s |
+| <img src="assets/icons/bunkerweb.svg" width="18" height="18" align="center" alt=""> **VPS Edge** | WAF / reverse proxy public | 8 vCores | 16 Go | 512 Go NVMe | 2,5 Gb/s |
+| <img src="assets/icons/netbird.svg" width="18" height="18" align="center" alt=""> **VPS Mesh** | Plan de contrôle NetBird | 4 vCores | 8 Go | 100 Go SSD | 1 Gb/s |
+| <img src="assets/icons/authentik.svg" width="18" height="18" align="center" alt=""> **VPS Identité** | SSO | 4 vCores | 8 Go | 100 Go SSD | 1 Gb/s |
 
 <details>
 <summary><b>Ce qui tourne dessus</b></summary>
@@ -259,9 +247,8 @@ flowchart LR
 
 ## Ce que j'approfondis
 
-- 🔐 **Active Directory** : durcissement, modèle de tiering, chemins d'attaque
-- 🕸️ **Mesh NetBird / WireGuard** : extension entre sites
-- ⚙️ **DevSecOps** : sécurisation des chaînes CI/CD et de l'infrastructure as code
+- 🤖 **Claude Code** : écriture de mes propres skills
+- 🔬 **Reverse engineering assisté par IA** : [REA](https://github.com/morluto/rea) (agents branchés sur IDA / Ghidra / Hopper) et [Universal Modder](https://github.com/rehan-remade/universal-modder)
 
 ---
 
