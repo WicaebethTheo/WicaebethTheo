@@ -256,13 +256,13 @@ Deux nœuds Proxmox, un NAS, des sauvegardes hors site testées, un réseau segm
 
 ## Ce que j'approfondis
 
-- 🤖 **Claude Code** : écriture de mes propres skills
-- 🔬 **Reverse engineering assisté par IA** : [REA](https://github.com/morluto/rea) (agents branchés sur IDA / Ghidra / Hopper) et [Universal Modder](https://github.com/rehan-remade/universal-modder)
+- <img src="assets/anim/claude-code.svg" width="20" height="20" align="center" alt=""> **Claude Code** : écriture de mes propres skills
+- <img src="assets/anim/reverse.svg" width="20" height="20" align="center" alt=""> **Reverse engineering assisté par IA** : [REA](https://github.com/morluto/rea) (agents branchés sur IDA / Ghidra / Hopper) et [Universal Modder](https://github.com/rehan-remade/universal-modder)
 
 ---
 
 <details>
-<summary><b>🎮 Hors infra</b></summary>
+<summary><img src="assets/anim/gaming.svg" width="20" height="20" align="center" alt=""> <b>Hors infra</b></summary>
 <br/>
 
 Joueur ranked, et le gaming est aussi un terrain de jeu technique : Nemesis Hub, pont RCON.
