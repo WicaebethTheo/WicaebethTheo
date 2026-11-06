@@ -192,6 +192,15 @@ Deux nœuds Proxmox, un NAS, des sauvegardes hors site testées, un réseau segm
 </td>
 </tr>
 <tr>
+<td valign="top"><b>Vie privée</b></td>
+<td>
+<img src="assets/badges/proton-vpn.svg" height="28" alt="Proton VPN">
+<img src="assets/badges/proton-pass.svg" height="28" alt="Proton Pass">
+<img src="assets/badges/proton-hme.svg" height="28" alt="Hide-my-email">
+<br/><sub>Suite Proton au quotidien · VPN, gestionnaire de mots de passe et alias e-mail jetables</sub>
+</td>
+</tr>
+<tr>
 <td valign="top"><b>Observabilité & automatisation</b></td>
 <td>
 <img src="assets/badges/victoriametrics.svg" height="28" alt="VictoriaMetrics">
