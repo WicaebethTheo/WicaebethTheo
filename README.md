@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="0x57696b61 — Blue Team, infra & sécurité, self-hosting" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.gif">
+  <img alt="Théo — Blue Team, infra & sécurité, self-hosting" src="assets/banner-light.gif" width="100%">
 </picture>
 
 <p align="center">
@@ -27,14 +27,16 @@ Ingénieur systèmes & réseaux côté **Blue Team**. J'aime comprendre en profo
 <tr>
 <td width="50%" valign="top">
 
-### 🎬 Wicaby
+<img src="assets/logos/wicaby.svg" width="56" align="right" alt="Logo Wicaby">
+
+### Wicaby
 **Client multimédia multi-serveurs**
 
 Un seul client pour **Emby, Jellyfin, Plex et Navidrome**, plus les sources **WebDAV et SMB**.
 
 - Windows · Linux · Android · Android TV
 - Bibliothèque de démo : films libres de la Blender Foundation (CC BY)
-- Kotlin · Svelte · TypeScript
+- Android : Kotlin, Jetpack Compose, Media3 · Desktop : Electron, Svelte, TypeScript
 - Licence GPL-3.0
 
 [Code](https://github.com/WicaebethTheo/wicaby)
@@ -42,13 +44,18 @@ Un seul client pour **Emby, Jellyfin, Plex et Navidrome**, plus les sources **We
 </td>
 <td width="50%" valign="top">
 
-### 🧩 Tessera
-**Supervision d'infra et veille CVE, en un seul tableau de bord**
+<img src="assets/logos/tessera.svg" width="56" align="right" alt="Logo Tessera">
 
-Vue unifiée de l'infrastructure : suivi des **CVE**, supervision complète de l'infra et centralisation des logs.
+### Tessera
+**Supervision d'infra et veille CVE, façon bureau**
 
-- Logs **VictoriaLogs**, métriques **VictoriaMetrics**
-- Veille CVE et état de l'infra au même endroit
+Un tableau de bord homelab qui se comporte comme un bureau : widgets sur fond d'écran, apps en fenêtres tuilées, lanceur `Ctrl+K`.
+
+- **37 types de widgets** : Proxmox/PBS, Docker, VictoriaMetrics & VictoriaLogs, Wazuh, UniFi, NetBird, AdGuard…
+- **Suivi des CVE** et des mises à jour OS, explorateur de logs en direct, PromQL, carte réseau, SLO
+- **Fil d'alertes unique** : incidents, silences, maintenances, runbooks ; notifs e-mail, ntfy, Discord
+- Sécurisé par défaut : rôles, CSRF, coffre chiffré pour les jetons, CSP stricte
+- React · Node (Hono) · TypeScript
 
 <sub>🔒 Dépôt privé</sub>
 
@@ -64,12 +71,14 @@ Vue unifiée de l'infrastructure : suivi des **CVE**, supervision complète de l
 <tr>
 <td width="50%" valign="top">
 
-### 🎫 ITSM Modern AI
+<img src="assets/logos/itsm-modern-ai.svg" width="56" align="right" alt="Logo ITSM Modern AI">
+
+### ITSM Modern AI
 **Triage IA de tickets GLPI, auto-hébergé et souverain**
 
 *Le LLM propose, le code décide* : une allowlist et un seuil de confiance tranchent, et aucune action n'est appliquée sans règle déterministe et auditable.
 
-- FastAPI · React · PostgreSQL · architecture hexagonale
+- FastAPI · React · PostgreSQL · Alembic · architecture hexagonale
 - Auth *fail-closed*, Argon2, HKDF, licences hors-ligne Ed25519
 - Connecteurs OpenAI / Mistral, LLM local possible
 - Open-core, licence MIT
@@ -79,14 +88,16 @@ Vue unifiée de l'infrastructure : suivi des **CVE**, supervision complète de l
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Nemesis Hub
+<img src="assets/logos/nemesis.png" width="56" align="right" alt="Logo Nemesis">
+
+### Nemesis Hub
 **Plateforme communautaire Valorant**
 
 Matchmaking type FACEIT, customs 5v5, économie de points, boutique et console d'administration.
 
-- Bot Discord + application web
-- Livré en Docker avec CI/CD
-- Utilisateurs concurrents, files d'attente, intégrité des parties
+- Files, draft ou équilibrage auto, veto, MMR/Elo, classement, saisons
+- Bots discord.py, API FastAPI, auth BetterAuth (OAuth Discord, RBAC), SPA React
+- PostgreSQL 18, 7 stacks Docker Compose, CI/CD
 
 [nemesis-hub.com](https://nemesis-hub.com) · [Discord](https://discord.gg/Uq4MSaQBx6)
 
@@ -209,6 +220,17 @@ flowchart LR
 </td>
 </tr>
 <tr>
+<td valign="top"><b>Reverse engineering</b></td>
+<td>
+<img src="https://img.shields.io/badge/IDA_Pro-30363d?style=flat-square" alt="IDA Pro">
+<img src="https://img.shields.io/badge/IDAPython_/_IDC-30363d?style=flat-square&logo=python&logoColor=3776AB" alt="IDAPython / IDC">
+<img src="https://img.shields.io/badge/UE4SS-30363d?style=flat-square&logo=unrealengine&logoColor=white" alt="UE4SS">
+<img src="https://img.shields.io/badge/Dumper--7-30363d?style=flat-square" alt="Dumper-7">
+<img src="https://img.shields.io/badge/x86--64_asm-30363d?style=flat-square" alt="Assembleur x86-64">
+<br/><sub>Analyse de binaires natifs · signatures et adressage RIP-relatif · reconstruction de structures · dump de SDK Unreal Engine · mods C++/Lua</sub>
+</td>
+</tr>
+<tr>
 <td valign="top"><b>Code</b></td>
 <td>
 <img src="https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
@@ -217,11 +239,17 @@ flowchart LR
 <img src="https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Svelte-30363d?style=flat-square&logo=svelte&logoColor=FF3E00" alt="Svelte">
 <img src="https://img.shields.io/badge/Kotlin-30363d?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin">
+<img src="https://img.shields.io/badge/Jetpack_Compose-30363d?style=flat-square&logo=jetpackcompose&logoColor=4285F4" alt="Jetpack Compose">
+<img src="https://img.shields.io/badge/Electron-30363d?style=flat-square&logo=electron&logoColor=47848F" alt="Electron">
+<img src="https://img.shields.io/badge/Node.js_/_Hono-30363d?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js / Hono">
+<img src="https://img.shields.io/badge/discord.py-30363d?style=flat-square&logo=discord&logoColor=5865F2" alt="discord.py">
 <img src="https://img.shields.io/badge/C++-30363d?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++">
+<img src="https://img.shields.io/badge/C%23-30363d?style=flat-square" alt="C#">
 <img src="https://img.shields.io/badge/Lua-30363d?style=flat-square&logo=lua&logoColor=white" alt="Lua">
 <img src="https://img.shields.io/badge/Bash-30363d?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash">
 <img src="https://img.shields.io/badge/PowerShell-30363d?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell">
 <img src="https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+<br/><sub>Tests Vitest, Playwright, pytest · conteneurs publiés sur GHCR · Renovate · i18n FR/EN · accessibilité WCAG 2.2 AA</sub>
 </td>
 </tr>
 </table>
