@@ -4,10 +4,10 @@
 </picture>
 
 <p align="center">
-  <a href="https://0x57696b61.com"><img src="https://img.shields.io/badge/Site-0x57696b61.com-101114?style=flat-square" alt="Site"></a>
-  <a href="https://docs.wicatool.cc"><img src="https://img.shields.io/badge/Docs-wicatool.cc-1a7f5a?style=flat-square" alt="Documentation"></a>
-  <a href="https://discord.com/users/1530935252359315518"><img src="https://img.shields.io/badge/Discord-contact-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-  <img src="https://img.shields.io/badge/Cap-Infra_%26_Sécu_→_DevSecOps-0969da?style=flat-square" alt="Cap : Infra & Sécu puis DevSecOps">
+  <a href="https://0x57696b61.com"><img src="assets/badges/link-site.svg" height="28" alt="Site : 0x57696b61.com"></a>
+  <a href="https://docs.wicatool.cc"><img src="assets/badges/link-docs.svg" height="28" alt="Documentation : docs.wicatool.cc"></a>
+  <a href="https://discord.com/users/1530935252359315518"><img src="assets/badges/link-discord.svg" height="28" alt="Discord"></a>
+  <img src="assets/badges/link-cap.svg" height="28" alt="Cap : Infra & Sécu puis DevSecOps">
 </p>
 
 ## À propos
@@ -21,33 +21,28 @@ Ingénieur systèmes & réseaux côté **Blue Team**. J'aime comprendre en profo
 
 ---
 
-## 🚧 En ce moment
+## En ce moment
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/logos/wicaby.svg" width="56" align="right" alt="Logo Wicaby">
-
-### Wicaby
-**Client multimédia multi-serveurs**
+### <img src="assets/logos/wicaby.svg" width="36" height="36" align="center" alt=""> Wicaby
+**Client multimédia multi-serveurs**<br/>
+<sub>[Code](https://github.com/WicaebethTheo/wicaby) · GPL-3.0</sub>
 
 Un seul client pour **Emby, Jellyfin, Plex et Navidrome**, plus les sources **WebDAV et SMB**.
 
 - Windows · Linux · Android · Android TV
 - Bibliothèque de démo : films libres de la Blender Foundation (CC BY)
 - Android : Kotlin, Jetpack Compose, Media3 · Desktop : Electron, Svelte, TypeScript
-- Licence GPL-3.0
-
-[Code](https://github.com/WicaebethTheo/wicaby)
 
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/logos/tessera.svg" width="56" align="right" alt="Logo Tessera">
-
-### Tessera
-**Supervision d'infra et veille CVE, façon bureau**
+### <img src="assets/logos/tessera.svg" width="36" height="36" align="center" alt=""> Tessera
+**Supervision d'infra et veille CVE, façon bureau**<br/>
+<sub>🔒 Dépôt privé · MIT</sub>
 
 Un tableau de bord homelab qui se comporte comme un bureau : widgets sur fond d'écran, apps en fenêtres tuilées, lanceur `Ctrl+K`.
 
@@ -56,8 +51,6 @@ Un tableau de bord homelab qui se comporte comme un bureau : widgets sur fond d'
 - **Fil d'alertes unique** : incidents, silences, maintenances, runbooks ; notifs e-mail, ntfy, Discord
 - Sécurisé par défaut : rôles, CSRF, coffre chiffré pour les jetons, CSP stricte
 - React · Node (Hono) · TypeScript
-
-<sub>🔒 Dépôt privé</sub>
 
 </td>
 </tr>
@@ -71,35 +64,29 @@ Un tableau de bord homelab qui se comporte comme un bureau : widgets sur fond d'
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/logos/itsm-modern-ai.svg" width="56" align="right" alt="Logo ITSM Modern AI">
-
-### ITSM Modern AI
-**Triage IA de tickets GLPI, auto-hébergé et souverain**
+### <img src="assets/logos/itsm-modern-ai.svg" width="36" height="36" align="center" alt=""> ITSM Modern AI
+**Triage IA de tickets GLPI, auto-hébergé et souverain**<br/>
+<sub>[Site](https://itsm-modern-ai.com) · [Docs](https://docs.itsm-modern-ai.com) · [Code](https://github.com/WicaebethTheo/itsm-modern-ai) · MIT</sub>
 
 *Le LLM propose, le code décide* : une allowlist et un seuil de confiance tranchent, et aucune action n'est appliquée sans règle déterministe et auditable.
 
 - FastAPI · React · PostgreSQL · Alembic · architecture hexagonale
 - Auth *fail-closed*, Argon2, HKDF, licences hors-ligne Ed25519
 - Connecteurs OpenAI / Mistral, LLM local possible
-- Open-core, licence MIT
-
-[Site](https://itsm-modern-ai.com) · [Docs](https://docs.itsm-modern-ai.com) · [Code](https://github.com/WicaebethTheo/itsm-modern-ai)
+- Modèle open-core
 
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/logos/nemesis.png" width="56" align="right" alt="Logo Nemesis">
-
-### Nemesis Hub
-**Plateforme communautaire Valorant**
+### <img src="assets/logos/nemesis.png" width="36" height="36" align="center" alt=""> Nemesis Hub
+**Plateforme communautaire Valorant**<br/>
+<sub>[nemesis-hub.com](https://nemesis-hub.com) · [Discord](https://discord.gg/Uq4MSaQBx6)</sub>
 
 Matchmaking type FACEIT, customs 5v5, économie de points, boutique et console d'administration.
 
 - Files, draft ou équilibrage auto, veto, MMR/Elo, classement, saisons
 - Bots discord.py, API FastAPI, auth BetterAuth (OAuth Discord, RBAC), SPA React
 - PostgreSQL 18, 7 stacks Docker Compose, CI/CD
-
-[nemesis-hub.com](https://nemesis-hub.com) · [Discord](https://discord.gg/Uq4MSaQBx6)
 
 </td>
 </tr>
@@ -163,93 +150,97 @@ flowchart LR
 
 <table>
 <tr>
-<td valign="top" width="22%"><b>Virtualisation & systèmes</b></td>
+<td valign="top" width="24%"><b>Virtualisation & systèmes</b></td>
 <td>
-<img src="https://img.shields.io/badge/Proxmox_VE-30363d?style=flat-square&logo=proxmox&logoColor=E57000" alt="Proxmox VE">
-<img src="https://img.shields.io/badge/PBS-30363d?style=flat-square&logo=proxmox&logoColor=E57000" alt="Proxmox Backup Server">
-<img src="https://img.shields.io/badge/LXC-30363d?style=flat-square&logo=linuxcontainers&logoColor=white" alt="LXC">
-<img src="https://img.shields.io/badge/Docker-30363d?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/unRAID-30363d?style=flat-square&logo=unraid&logoColor=F15A2C" alt="unRAID">
-<img src="https://img.shields.io/badge/Windows_Server-30363d?style=flat-square&logo=windows&logoColor=0078D4" alt="Windows Server">
-<img src="https://img.shields.io/badge/Active_Directory-30363d?style=flat-square" alt="Active Directory">
-<img src="https://img.shields.io/badge/Arch-30363d?style=flat-square&logo=archlinux&logoColor=1793D1" alt="Arch Linux">
-<img src="https://img.shields.io/badge/Debian-30363d?style=flat-square&logo=debian&logoColor=A81D33" alt="Debian">
-<img src="https://img.shields.io/badge/Ubuntu-30363d?style=flat-square&logo=ubuntu&logoColor=E95420" alt="Ubuntu">
-<img src="https://img.shields.io/badge/Fedora-30363d?style=flat-square&logo=fedora&logoColor=51A2DA" alt="Fedora">
+<img src="assets/badges/proxmox.svg" height="28" alt="Proxmox VE">
+<img src="assets/badges/pbs.svg" height="28" alt="Proxmox Backup Server">
+<img src="assets/badges/lxc.svg" height="28" alt="LXC">
+<img src="assets/badges/docker.svg" height="28" alt="Docker">
+<img src="assets/badges/unraid.svg" height="28" alt="unRAID">
+<img src="assets/badges/windows-server.svg" height="28" alt="Windows Server">
+<img src="assets/badges/active-directory.svg" height="28" alt="Active Directory">
+<img src="assets/badges/arch.svg" height="28" alt="Arch Linux">
+<img src="assets/badges/debian.svg" height="28" alt="Debian">
+<img src="assets/badges/ubuntu.svg" height="28" alt="Ubuntu">
+<img src="assets/badges/fedora.svg" height="28" alt="Fedora">
+<br/><sub>Cluster Proxmox · sauvegardes testées · Windows Server & AD (GPO, réplication)</sub>
 </td>
 </tr>
 <tr>
 <td valign="top"><b>Réseau</b></td>
 <td>
-<img src="https://img.shields.io/badge/UniFi-30363d?style=flat-square&logo=ubiquiti&logoColor=0559C9" alt="UniFi">
-<img src="https://img.shields.io/badge/MikroTik-30363d?style=flat-square&logo=mikrotik&logoColor=white" alt="MikroTik">
-<img src="https://img.shields.io/badge/WireGuard-30363d?style=flat-square&logo=wireguard&logoColor=88171A" alt="WireGuard">
-<img src="https://img.shields.io/badge/NetBird-30363d?style=flat-square&logo=netbird&logoColor=F68330" alt="NetBird">
-<img src="https://img.shields.io/badge/Traefik-30363d?style=flat-square&logo=traefikproxy&logoColor=24A1C1" alt="Traefik">
-<img src="https://img.shields.io/badge/FortiGate-30363d?style=flat-square&logo=fortinet&logoColor=EE3124" alt="FortiGate">
-<img src="https://img.shields.io/badge/Stormshield-30363d?style=flat-square" alt="Stormshield">
-<img src="https://img.shields.io/badge/AdGuard_Home-30363d?style=flat-square&logo=adguard&logoColor=68BC71" alt="AdGuard Home">
-<img src="https://img.shields.io/badge/Cloudflare-30363d?style=flat-square&logo=cloudflare&logoColor=F38020" alt="Cloudflare">
+<img src="assets/badges/unifi.svg" height="28" alt="UniFi">
+<img src="assets/badges/mikrotik.svg" height="28" alt="MikroTik">
+<img src="assets/badges/wireguard.svg" height="28" alt="WireGuard">
+<img src="assets/badges/netbird.svg" height="28" alt="NetBird">
+<img src="assets/badges/traefik.svg" height="28" alt="Traefik">
+<img src="assets/badges/fortigate.svg" height="28" alt="FortiGate">
+<img src="assets/badges/stormshield.svg" height="28" alt="Stormshield">
+<img src="assets/badges/adguard.svg" height="28" alt="AdGuard Home">
+<img src="assets/badges/cloudflare.svg" height="28" alt="Cloudflare">
+<br/><sub>VLAN par usage · backbone 10 G · mesh WireGuard post-quantique · HA keepalived</sub>
 </td>
 </tr>
 <tr>
 <td valign="top"><b>Blue Team</b></td>
 <td>
-<img src="https://img.shields.io/badge/Wazuh-30363d?style=flat-square&logo=wazuh&logoColor=3D82F1" alt="Wazuh">
-<img src="https://img.shields.io/badge/CrowdSec-30363d?style=flat-square" alt="CrowdSec">
-<img src="https://img.shields.io/badge/BunkerWeb-30363d?style=flat-square" alt="BunkerWeb">
-<img src="https://img.shields.io/badge/Trivy-30363d?style=flat-square&logo=trivy&logoColor=1904DA" alt="Trivy">
-<img src="https://img.shields.io/badge/Authentik-30363d?style=flat-square&logo=authentik&logoColor=FD4B2D" alt="Authentik">
-<img src="https://img.shields.io/badge/Vaultwarden-30363d?style=flat-square&logo=vaultwarden&logoColor=white" alt="Vaultwarden">
-<img src="https://img.shields.io/badge/Let's_Encrypt-30363d?style=flat-square&logo=letsencrypt&logoColor=white" alt="Let's Encrypt">
-<img src="https://img.shields.io/badge/OpenVAS-30363d?style=flat-square" alt="OpenVAS">
+<img src="assets/badges/wazuh.svg" height="28" alt="Wazuh">
+<img src="assets/badges/crowdsec.svg" height="28" alt="CrowdSec">
+<img src="assets/badges/bunkerweb.svg" height="28" alt="BunkerWeb">
+<img src="assets/badges/trivy.svg" height="28" alt="Trivy">
+<img src="assets/badges/authentik.svg" height="28" alt="Authentik">
+<img src="assets/badges/vaultwarden.svg" height="28" alt="Vaultwarden">
+<img src="assets/badges/letsencrypt.svg" height="28" alt="Let's Encrypt">
+<img src="assets/badges/openvas.svg" height="28" alt="OpenVAS">
 <br/><sub>SIEM / HIDS · WAF · PKI interne · SSO OIDC & SAML · scan de vulnérabilités · cadre NIS2</sub>
 </td>
 </tr>
 <tr>
 <td valign="top"><b>Observabilité & automatisation</b></td>
 <td>
-<img src="https://img.shields.io/badge/VictoriaMetrics-30363d?style=flat-square&logo=victoriametrics&logoColor=white" alt="VictoriaMetrics">
-<img src="https://img.shields.io/badge/VictoriaLogs-30363d?style=flat-square&logo=victoriametrics&logoColor=white" alt="VictoriaLogs">
-<img src="https://img.shields.io/badge/Vector-30363d?style=flat-square" alt="Vector">
-<img src="https://img.shields.io/badge/ntfy-30363d?style=flat-square&logo=ntfy&logoColor=white" alt="ntfy">
-<img src="https://img.shields.io/badge/Ansible_/_AWX-30363d?style=flat-square&logo=ansible&logoColor=white" alt="Ansible / AWX">
-<img src="https://img.shields.io/badge/GitLab_CI-30363d?style=flat-square&logo=gitlab&logoColor=FC6D26" alt="GitLab CI">
-<img src="https://img.shields.io/badge/Portainer-30363d?style=flat-square&logo=portainer&logoColor=13BEF9" alt="Portainer">
-<img src="https://img.shields.io/badge/GLPI-30363d?style=flat-square" alt="GLPI">
+<img src="assets/badges/victoriametrics.svg" height="28" alt="VictoriaMetrics">
+<img src="assets/badges/victorialogs.svg" height="28" alt="VictoriaLogs">
+<img src="assets/badges/vector.svg" height="28" alt="Vector">
+<img src="assets/badges/ntfy.svg" height="28" alt="ntfy">
+<img src="assets/badges/ansible.svg" height="28" alt="Ansible / AWX">
+<img src="assets/badges/gitlab.svg" height="28" alt="GitLab CI">
+<img src="assets/badges/portainer.svg" height="28" alt="Portainer">
+<img src="assets/badges/glpi.svg" height="28" alt="GLPI">
+<br/><sub>Métriques, logs et alerting auto-hébergés · infrastructure as code · pipelines CI/CD</sub>
 </td>
 </tr>
 <tr>
 <td valign="top"><b>Reverse engineering</b></td>
 <td>
-<img src="https://img.shields.io/badge/IDA_Pro-30363d?style=flat-square" alt="IDA Pro">
-<img src="https://img.shields.io/badge/IDAPython_/_IDC-30363d?style=flat-square&logo=python&logoColor=3776AB" alt="IDAPython / IDC">
-<img src="https://img.shields.io/badge/UE4SS-30363d?style=flat-square&logo=unrealengine&logoColor=white" alt="UE4SS">
-<img src="https://img.shields.io/badge/Dumper--7-30363d?style=flat-square" alt="Dumper-7">
-<img src="https://img.shields.io/badge/x86--64_asm-30363d?style=flat-square" alt="Assembleur x86-64">
+<img src="assets/badges/ida.svg" height="28" alt="IDA Pro">
+<img src="assets/badges/idapython.svg" height="28" alt="IDAPython / IDC">
+<img src="assets/badges/ue4ss.svg" height="28" alt="UE4SS">
+<img src="assets/badges/dumper7.svg" height="28" alt="Dumper-7">
+<img src="assets/badges/asm.svg" height="28" alt="Assembleur x86-64">
 <br/><sub>Analyse de binaires natifs · signatures et adressage RIP-relatif · reconstruction de structures · dump de SDK Unreal Engine · mods C++/Lua</sub>
 </td>
 </tr>
 <tr>
 <td valign="top"><b>Code</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-30363d?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-<img src="https://img.shields.io/badge/FastAPI-30363d?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI">
-<img src="https://img.shields.io/badge/TypeScript-30363d?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-<img src="https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Svelte-30363d?style=flat-square&logo=svelte&logoColor=FF3E00" alt="Svelte">
-<img src="https://img.shields.io/badge/Kotlin-30363d?style=flat-square&logo=kotlin&logoColor=7F52FF" alt="Kotlin">
-<img src="https://img.shields.io/badge/Jetpack_Compose-30363d?style=flat-square&logo=jetpackcompose&logoColor=4285F4" alt="Jetpack Compose">
-<img src="https://img.shields.io/badge/Electron-30363d?style=flat-square&logo=electron&logoColor=47848F" alt="Electron">
-<img src="https://img.shields.io/badge/Node.js_/_Hono-30363d?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js / Hono">
-<img src="https://img.shields.io/badge/discord.py-30363d?style=flat-square&logo=discord&logoColor=5865F2" alt="discord.py">
-<img src="https://img.shields.io/badge/C++-30363d?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++">
-<img src="https://img.shields.io/badge/C%23-30363d?style=flat-square" alt="C#">
-<img src="https://img.shields.io/badge/Lua-30363d?style=flat-square&logo=lua&logoColor=white" alt="Lua">
-<img src="https://img.shields.io/badge/Bash-30363d?style=flat-square&logo=gnubash&logoColor=4EAA25" alt="Bash">
-<img src="https://img.shields.io/badge/PowerShell-30363d?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell">
-<img src="https://img.shields.io/badge/PostgreSQL-30363d?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-<br/><sub>Tests Vitest, Playwright, pytest · conteneurs publiés sur GHCR · Renovate · i18n FR/EN · accessibilité WCAG 2.2 AA</sub>
+<img src="assets/badges/python.svg" height="28" alt="Python">
+<img src="assets/badges/fastapi.svg" height="28" alt="FastAPI">
+<img src="assets/badges/typescript.svg" height="28" alt="TypeScript">
+<img src="assets/badges/react.svg" height="28" alt="React">
+<img src="assets/badges/svelte.svg" height="28" alt="Svelte">
+<img src="assets/badges/node.svg" height="28" alt="Node.js">
+<img src="assets/badges/hono.svg" height="28" alt="Hono">
+<img src="assets/badges/kotlin.svg" height="28" alt="Kotlin">
+<img src="assets/badges/compose.svg" height="28" alt="Jetpack Compose">
+<img src="assets/badges/electron.svg" height="28" alt="Electron">
+<img src="assets/badges/discordpy.svg" height="28" alt="discord.py">
+<img src="assets/badges/cpp.svg" height="28" alt="C++">
+<img src="assets/badges/csharp.svg" height="28" alt="C#">
+<img src="assets/badges/lua.svg" height="28" alt="Lua">
+<img src="assets/badges/bash.svg" height="28" alt="Bash">
+<img src="assets/badges/powershell.svg" height="28" alt="PowerShell">
+<img src="assets/badges/postgresql.svg" height="28" alt="PostgreSQL">
+<br/><sub>Tests Vitest, Playwright, pytest · images publiées sur GHCR · Renovate · i18n FR/EN · accessibilité WCAG 2.2 AA</sub>
 </td>
 </tr>
 </table>
